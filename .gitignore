@@ -1,4 +1,6 @@
-*input_data*
+*.mp4*
 *.DS_Store*
 *.pptx*
 *.env*
+*.txt*
+*.pdf*
